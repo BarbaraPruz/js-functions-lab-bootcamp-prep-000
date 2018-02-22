@@ -9,7 +9,7 @@ function happyHolidayTo (holiday, name) {
 }
 
 function happyHolidaysTo (name) {
-  return happyHoldayTo('holidays',name)
+  return happyHolidayTo('holidays',name)
 }
 
 
